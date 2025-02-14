@@ -14,7 +14,7 @@ I am passionate about technologies, comic books, music, art, video games, swords
 ## Skills
 
 - **Technologies**: that's a secret for know
-- **Databases**:that's a secret for know
+- **Databases**: that's a secret for know
 - **Tools & Platforms**: that's a secret for know
 - **Preferred Language**: that's a secret for know
 
