@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Filipe Prata</h1>
-<h3 align="center">A passionate student from Angola Currently learning game devlopement and trying go deeper on the hole of low level programming. I recently started studying game development, low level programming and I want to learn more about cryptography. (i kinda want to make cool and silly shaders... and a card game... like yu gi oh). I'm kind of busy with my games and school but I'm taking it one step at a time. hope everything works well.</h3>
+<h3 align="center">A passionate student from Angola currently learning game devlopement and trying go deeper on the hole of low level programming. I recently started studying game development, low level programming and I want to learn more about cryptography. (i kinda want to make cool and silly shaders... and a card game... like yu gi oh). I'm kind of busy with my games and school but I'm taking it one step at a time. hope everything works well.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
